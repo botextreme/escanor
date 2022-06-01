@@ -4,30 +4,27 @@ function handler(m) {
   
   m.reply(`
 *≡ OWNER*
-  *FG98*
+  *SPARTAN*
 ▢ Instagram :
-  • https://instagram.com/fg98._
+  • https://instagram.com/scorpion_bot06
 ▢ WhatsApp :
   • (escribe solo si es necesario) 
-▢ GitHub :
-  • https://github.com/FG98F
 ▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+  • t.me/bot_scorpion06 (creador) 
+  • t.me/scorgrup (canal)
+  • t.me/botscorpion0 (grupo)
 ▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
+  • https://facebook.com/
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://www.youtube.com/channel/UCPR7908-oVQzsdWy94enOJA/featured
   
  *≡ HELPERS*
-  *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
-▢ WhatsApp : wa.me/
-  *ANDREA*
+  *nekosmic*
+▢ WhatsApp : wa.me/51950054323
+▢ WhatsApp : wa.me/51957041866
+  *Daniel*
 ▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ WhatsApp : wa.me/528261956657
 `) 
 
 
@@ -36,7 +33,7 @@ function handler(m) {
 handler.help = ['creador']
 handler.tags = ['main']
 
-handler.command = ['owner', 'creator', 'creador', 'dueño', 'fgowner'] 
+handler.command = ['owner', 'creator', 'creador', 'dueño', 'scowner'] 
 
 
 export default handler
