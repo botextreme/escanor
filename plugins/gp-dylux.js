@@ -18,8 +18,8 @@ https://chat.whatsapp.com/FR1N45RJOLh4BcAvUyssLk
 
 
 `.trim())
-handler.help = ['gpdylux']
+handler.help = ['gpscorpion']
 handler.tags = ['main']
-handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux'] 
+handler.command = ['grupos', 'groupscorpion', 'dxgp', 'dygp', 'gpscorpion'] 
 
 export default handler
