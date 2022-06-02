@@ -57,7 +57,7 @@ ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.m
 `
 conn.sendHydrated(m.chat, infobt, igfg, '', 'https://github.com/FG98F/dylux-fg', 'Script', null, null, [
       ['ꨄ︎ Apoyar', `${usedPrefix}donar`],
-      ['⌬ Grupos', `${usedPrefix}gpdylux`],
+      ['⌬ Grupos', `${usedPrefix}grupos`],
       ['✆ Owner', `${usedPrefix}fgowner`]
     ], m)
 }
