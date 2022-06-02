@@ -27,7 +27,7 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
   }
   if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw '❎ Error: ' + (lastError || 'no puedo descargar el video')
 
-m.reply(isLimit ? ` ≡  *FG MUSIC*
+m.reply(isLimit ? ` ≡  *Scorpion MUSIC*
 ▢ *📌Título* : ${title}
 ▢ *⚖️Peso* : ${video.fileSizeH}
 ▢ *El archivo supera el límite de descarga*
@@ -41,7 +41,7 @@ ${limit} mb
   try { _thumb = { thumbnail: await (await fetch(thumbnail)).buffer() } }
   catch (e) { }
   if (!isLimit) await conn.sendFile(m.chat, link, title + '.mp4', `
- ≡  *FG MUSIC*
+ ≡  *Scorpion MUSIC*
   
 ▢ *📌Título* : ${title}
 ▢ *📟 Ext* : mp4
