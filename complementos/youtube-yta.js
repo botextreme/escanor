@@ -27,7 +27,7 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
   }
   if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw '❎ Error: ' + (lastError || 'no puedo descargar el audio')
  
- m.reply(isLimit ? `≡ *FG MUSIC* 
+ m.reply(isLimit ? `≡ *Scorpion MUSIC* 
   
 ▢ *📌Titulo:* ${title}
 ▢ *⚖️ Peso:* ${audio.fileSizeH}
@@ -39,7 +39,7 @@ ${limit} mb
 300 mb
 ▬▬▬▬▬ *300 MB*`: global.wait) 
   if (!isLimit) await conn.sendFile(m.chat, source, title + '.mp3', `
-≡  *FG MUSIC*
+≡  *Scorpion MUSIC*
     
 ▢ *📌Título* : ${title}
 ▢ *📟 Ext* : mp3
