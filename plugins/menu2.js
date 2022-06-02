@@ -20,11 +20,11 @@ envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
 ┌─⊷ *VIDEO/GIF* 
 ▢ Linda noche
 └──────────────`
-const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
+const pp = await (await fetch('https://i.ibb.co/wsppZH5/3fe483d6-5094-4059-ad66-03621f51e76f.jpg')).buffer()
     
-    conn.sendHydrated(m.chat, m2, '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
+    conn.sendHydrated(m.chat, m2, '▢ Scorpion  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/Scorpion_bot06._\n', pp, 'https://www.youtube.com/channel/UCPR7908-oVQzsdWy94enOJA/featured', 'YouTube', null, null, [
      ['⏍ Info', '/botinfo'],
-      ['⌬ Grupos', '/gpdylux']
+      ['⌬ Grupos', '/grupos']
     ], m)
     
 }
