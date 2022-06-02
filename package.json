@@ -1,5 +1,5 @@
 {
-    "name": "dylux-fg",
+    "name": "scorpion-bot",
     "version": "1.2.5",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,15 +20,15 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "dylux-bot",
-        "dylux-bot-md",
+        "scorpion-bot",
+        "escorpion-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FG98F/dylux-fg",
+    "homepage": "https://github.com/",
     "author": {
-        "name": "FG98"
+        "name": "botextreme"
     },
     "repository": {
         "type": "git",
