@@ -31,10 +31,8 @@ const defaultMenu = {
 🧿 Nivel : *%level* 
 👥 Usuarios : %totalreg
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/jeXHB0IIzCM
-▢ Descarga *FGWhatsApp*
-• https://fgwhatsapp.ml
+▢ ayúdanos con tu donacion
+• para que el bot siga activo
 ─────────────
 %readmore
 Ⓟ = Premium
