@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey Here
 global.packname = 'Scorpion-bot'
 global.author = '@scorpion_bot06'
 global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/scorpion_bot06\n' 
-global.fgsc = '
+global.fgsc = ''
 global.fgyt = 'https://youtube.com/channel/UCPR7908-oVQzsdWy94enOJA'
 
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
